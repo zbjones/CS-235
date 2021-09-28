@@ -1,0 +1,3 @@
+/cygdrive/c/Users/zacha/CLionProjects/Lab 1 Grades/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/zacha/CLionProjects/Lab 1 Grades/cmake-build-debug/CMakeFiles/Lab_1_Grades.dir
+/cygdrive/c/Users/zacha/CLionProjects/Lab 1 Grades/cmake-build-debug/CMakeFiles/edit_cache.dir
