@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Lab_3_Linked_List.dir/main.cpp.o  -o Lab_3_Linked_List.exe -Wl,--out-implib,libLab_3_Linked_List.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
