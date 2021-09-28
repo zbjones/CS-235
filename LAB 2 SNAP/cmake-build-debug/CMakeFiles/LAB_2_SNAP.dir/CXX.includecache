@@ -1,0 +1,62 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Zachary Jones/CLionProjects/LAB 2 SNAP/Cdh.h
+string
+-
+Course.h
+/cygdrive/c/Users/Zachary Jones/CLionProjects/LAB 2 SNAP/Course.h
+
+/cygdrive/c/Users/Zachary Jones/CLionProjects/LAB 2 SNAP/Course.h
+string
+-
+
+/cygdrive/c/Users/Zachary Jones/CLionProjects/LAB 2 SNAP/Cr.h
+string
+-
+Course.h
+/cygdrive/c/Users/Zachary Jones/CLionProjects/LAB 2 SNAP/Course.h
+
+/cygdrive/c/Users/Zachary Jones/CLionProjects/LAB 2 SNAP/Csg.h
+string
+-
+Student.h
+/cygdrive/c/Users/Zachary Jones/CLionProjects/LAB 2 SNAP/Student.h
+Course.h
+/cygdrive/c/Users/Zachary Jones/CLionProjects/LAB 2 SNAP/Course.h
+
+/cygdrive/c/Users/Zachary Jones/CLionProjects/LAB 2 SNAP/Snap.h
+string
+-
+Student.h
+/cygdrive/c/Users/Zachary Jones/CLionProjects/LAB 2 SNAP/Student.h
+
+/cygdrive/c/Users/Zachary Jones/CLionProjects/LAB 2 SNAP/Student.h
+string
+-
+
+/cygdrive/c/Users/Zachary Jones/CLionProjects/LAB 2 SNAP/main.cpp
+iostream
+-
+ostream
+-
+fstream
+-
+string
+-
+vector
+-
+Snap.h
+/cygdrive/c/Users/Zachary Jones/CLionProjects/LAB 2 SNAP/Snap.h
+Csg.h
+/cygdrive/c/Users/Zachary Jones/CLionProjects/LAB 2 SNAP/Csg.h
+Cdh.h
+/cygdrive/c/Users/Zachary Jones/CLionProjects/LAB 2 SNAP/Cdh.h
+Cr.h
+/cygdrive/c/Users/Zachary Jones/CLionProjects/LAB 2 SNAP/Cr.h
+

@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/LAB_2_SNAP.dir/main.cpp.o  -o LAB_2_SNAP.exe -Wl,--out-implib,libLAB_2_SNAP.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

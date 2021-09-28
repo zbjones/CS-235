@@ -1,0 +1,4 @@
+"C:\Users\Zachary Jones\.CLion2019.3\system\cygwin_cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/cygdrive/c/Users/Zachary Jones/CLionProjects/LAB 2 SNAP"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/c/Users/Zachary Jones/CLionProjects/LAB 2 SNAP/cmake-build-debug
